@@ -1,0 +1,30 @@
+app_name: NIM Duel
+category: Games
+tagline: Tap. Stake. Win.
+description: Real-time reaction duels where two players stake NIM and the
+  fastest tap wins — settled instantly wallet-to-wallet, no escrow, no house.
+  Built for friends who want real stakes behind "I'm faster than you."
+pricing: Free
+repo_url: https://github.com/Nailer/nim-duel
+demo_url: https://miniapp-tawny-two.vercel.app/
+video_url: https://youtube.com/shorts/GSCiJmWSQOo
+contact_email: ajeemmanuel221@gmail.com
+team_name: Nil
+team_members:
+  - Nil
+x_account: EmmanuelAje7
+builder_story: Reflex challenges between friends are never backed by anything
+  real — NIM Duel fixes that. Two players stake NIM, tap for speed, and the
+  loser's wallet pays the winner directly the moment the match resolves — no
+  escrow, no custody, just two wallets and one transaction. A duel link isn't
+  just a share, it's a dare.
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.jpg
+  - screenshot-4.jpg
+  - screenshot-5.jpg
+github_login: Nailer
+submitted_at: 2026-07-31T22:34:28.784Z
