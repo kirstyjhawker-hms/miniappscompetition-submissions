@@ -11,7 +11,7 @@
 | Team name | _Not provided — optional_ |
 | Team members | _Not provided — optional_ |
 | X account | _Not provided — optional_ |
-| Contact email | yungdynamuc53@gmail.com |
+| Contact email | yungdynamic53@gmail.com |
 | GitHub login | @Imdavyking |
 | Submitted at | 2026-07-31T23:51:24.588Z |
 
