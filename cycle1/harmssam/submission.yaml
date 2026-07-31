@@ -1,10 +1,8 @@
 app_name: VeriLock
 category: Productivity
-tagline: Sign together. Prove forever.
-description: Verilock lets landlords, freelancers, and small teams sign PDF
-  agreements with Nimiq wallet-backed signatures, then permanently anchor the
-  document fingerprint on-chain. Your PDF never leaves your device - anyone with
-  a copy can verify it matches the sealed record.
+tagline: Sign Free. Lock when it matters.
+description: VeriLock - Free multi-party document signing, with optional
+  permanent proof on the Nimiq blockchain.
 pricing: Freemium
 repo_url: https://github.com/harmssam/verilock
 demo_url: https://verilock.online/
@@ -12,16 +10,22 @@ video_url: https://youtu.be/I9OGrZvuXwY
 contact_email: harmssam@gmail.com
 team_name: null
 team_members: null
-x_account: harmssam
+x_account: verilockonline
 builder_story: "I built VeriLock after seeing how rental and freelance
   agreements get disputed months later - with no easy way to prove everyone
   signed the same document. Existing e-sign tools store your PDFs on their
-  servers and charge monthly fees. VeriLock takes a different approach:
-  fingerprint the PDF locally, collect wallet-backed signatures from each party,
-  and anchor the final hash on the Nimiq blockchain with a single seal
-  transaction. The file stays on your device, but the proof is permanent and
-  publicly verifiable. I used Cursor and Grok to ship the full stack - React
-  mini app, Express API, SQLite on Railway - in time for the competition."
+  servers and charge monthly fees. VeriLock takes a different
+  approach:  fingerprint the document locally, collect wallet-backed signatures
+  from each party, and anchor the final hash on the Nimiq blockchain with a
+  single fingerprint transaction. The file stays on your device, but the proof
+  is permanent and publicly verifiable. I also created
+  https://github.com/clevertech-os/verilock-offline so that if users decide to
+  store their completed fields - signatures, text, they can recompile the
+  contract using the original document.\r
+
+  I used Grok to ship the full stack - React\r
+
+  \  mini app, Express API, SQLite on Railway - in time for the competition."
 icon: icon.png
 thumbnail: thumbnail.png
 screenshots:
@@ -29,5 +33,6 @@ screenshots:
   - screenshot-2.png
   - screenshot-3.png
   - screenshot-4.png
+  - screenshot-5.jpg
 github_login: harmssam
-submitted_at: 2026-07-07T00:27:55.091Z
+submitted_at: 2026-07-31T21:38:06.697Z
