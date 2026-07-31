@@ -1,0 +1,63 @@
+app_name: NimBounty
+category: Earning
+tagline: Outcome-based micro-task bounties on Nimiq Pay
+description: NimBounty is an outcome-based micro-task bounty engine where Task
+  creators publish bounty campaigns and workers performs them. it's made for
+  Project Creators & Developers , Web3 founders, indie devs, and community
+  managers who need real human QA. also for people looking to earn..
+pricing: Free
+repo_url: https://github.com/OpeyemiMoses/NimBounty
+demo_url: https://nimbounty-production.up.railway.app
+video_url: https://youtu.be/45EQO1JdKiw?si=sgTl_ix557py5Ex5
+contact_email: opeyemimosesawt@gmail.com
+team_name: null
+team_members: null
+x_account: yemigraffix
+builder_story: "What inspired me to build this?\r
+
+  Existing Web2 micro-task platforms like Fiverr and Mechanical Turk are
+  fundamentally broken for small tasks—they charge high 15%–20% commissions,
+  require lengthy payout waiting periods, and enforce high minimum withdrawal
+  limits.\r
+
+  \r
+
+  On the flip side, Web3 bounty platforms often fail on mobile due to high gas
+  costs for simple proof submissions and heavy bot manipulation, where automated
+  scripts farm reward pools before real humans can participate.\r
+
+  \r
+
+  I wanted to leverage Nimiq Pay's fast, zero-friction payment architecture to
+  build a mobile-first, bot-resistant gig engine where creators get genuine
+  human feedback and workers get paid instantly for their effort.\r
+
+  \r
+
+  What problems does NimBounty solve?\r
+
+  Hardware-Bound Anti-Sybil Protection: Integrates Nimiq Pay’s
+  requestDeviceIdentifier API, binding each worker to a unique physical device
+  to block multi-account bot farms from draining bounty pools.\r
+
+  Seamless Mobile-First UX: Optimized specifically for the Nimiq Pay Mini App
+  environment..\r
+
+  \r
+
+  Instant Payout: The one click payment method helps NimBounty workflow become
+  seamless. posters can just easily approve a workers proof and send payment
+  immediately.. also on shipping V2 we'll introduce Excrows who'll handle the
+  payments directly without the need of poster signing a
+  transaction.  posters/bounty creators will just send the tokens to the Excrow
+  vault and it'll release once the approve the workers proof."
+icon: icon.jpg
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: OpeyemiMoses
+submitted_at: 2026-07-31T18:41:24.413Z
