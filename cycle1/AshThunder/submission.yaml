@@ -1,0 +1,39 @@
+app_name: GatePass
+category: Lifestyle
+tagline: NIM tickets. Rotating QR. Door check-in that actually works.
+description: GatePass lets hosts sell event tickets in Nimiq Pay. Guests pay
+  with NIM, get a rotating QR pass, and check in at the door,  built for
+  meetups, workshops, and community nights.
+pricing: Free
+repo_url: https://github.com/ashThunder/gatepass
+demo_url: https://gatepass-production-452c.up.railway.app/
+video_url: https://youtu.be/6ffvUGyHc6k?si=PtSouN3bTNBo3eUm
+contact_email: chrisgoldog@gmail.com
+team_name: null
+team_members: null
+x_account: chrisgold__
+builder_story: "Crypto events still run on PDF tickets and screenshot QR codes
+  that anyone can copy. I wanted something that feels natural inside a payment
+  wallet: create an event, pay in NIM, show a rotating QR at the door, and leave
+  with proof you showed up.\r
+
+  \r
+
+  GatePass is that loop. Hosts sell tickets in Nimiq Pay. Guests pay with NIM.
+  Door staff scan a time-based QR that is hard to fake. After the event,
+  checked-in guests get a proof of attendance badge.\r
+
+  \r
+
+  Built for meetups, workshops, and community nights where you need tickets that
+  work as well as the money that bought them."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+  - screenshot-4.jpg
+  - screenshot-5.jpg
+github_login: AshThunder
+submitted_at: 2026-07-31T22:53:10.720Z
