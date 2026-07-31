@@ -1,0 +1,32 @@
+app_name: Trove
+category: Marketplaces
+tagline: Funded bounties. Verified payouts.
+description: TROVE is a Nimiq Pay Mini App for posting, discovering, and
+  completing funded bounties, with rewards verified on-chain before work begins.
+pricing: Free
+repo_url: https://github.com/mzterwalexzyy/Trove
+demo_url: https://trove-nimiq.vercel.app
+video_url: https://youtube.com/shorts/v0x1xVZQGpM?is=oyuOnAsQmXjXWK2d
+contact_email: kareemtoheeba10@gmail.com
+team_name: De_xklusiv
+team_members:
+  - None
+x_account: De_xklusiv
+builder_story: "TROVE was inspired by a simple question: why should small tasks
+  require complicated platforms, and why should hunters have to trust they'll
+  get paid?\r
+
+  \r
+
+  I built TROVE to make bounties simple, mobile-first, and verifiable through
+  Nimiq Pay."
+icon: icon.png
+thumbnail: thumbnail.jpg
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+  - screenshot-4.jpg
+  - screenshot-5.jpg
+github_login: mzterwalexzyy
+submitted_at: 2026-07-31T20:06:35.249Z
