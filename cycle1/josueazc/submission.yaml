@@ -1,0 +1,42 @@
+app_name: NIMIQ-ARCADE
+category: Games
+tagline: Play and win
+description: Play 20+ classic, brain, action, and puzzle games online or
+  locally, compete with friends, and earn NIM rewards as you play.
+pricing: Free
+repo_url: https://github.com/NIMIQ-MINIAPPS/NIMIQ-ARCADE
+demo_url: https://nimiq-arcade.vercel.app/
+video_url: https://youtube.com/shorts/TlcEcDFHb7s?feature=share
+contact_email: josueazo28@gmail.com
+team_name: josueazc
+team_members: null
+x_account: josueazcdev
+builder_story: "I've always been passionate about video games, especially arcade
+  and casual games that you can pick up and enjoy anytime on your phone. Growing
+  up, I spent countless hours playing simple but addictive games, and they
+  inspired me to start building games of my own.\r
+
+  \r
+
+  This project is my way of combining that passion with the Nimiq ecosystem. I
+  want to create a collection of fun, polished, and highly replayable mini-games
+  that people genuinely enjoy, while also bringing more users and engagement to
+  the Nimiq community. My goal is to make something that players come back to
+  because it's entertaining, not just because it's part of a Web3 application.\r
+
+  \r
+
+  I believe games are one of the best ways to introduce people to new
+  technologies in a natural and enjoyable way. If someone discovers Nimiq
+  because they had fun playing these games, then the project has already
+  achieved something meaningful. Building experiences that people enjoy while
+  helping grow the community is what motivates me the most."
+icon: icon.jpg
+thumbnail: thumbnail.jpg
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+github_login: josueazc
+submitted_at: 2026-07-29T03:37:07.852Z
