@@ -1,0 +1,78 @@
+app_name: Votum
+category: Social
+tagline: Your choice, verified
+description: Votum is a Nimiq Pay Mini App for verified voting, where one wallet
+  gets one vote and optional NIM support is counted separately. It helps
+  creators and communities turn simple polls into accountable participation.
+pricing: Free
+repo_url: https://github.com/kaelah971/votum
+demo_url: https://votum-five.vercel.app/
+video_url: https://x.com/_votumm_/status/2083299284829508063?s=46
+contact_email: kaelah679@gmail.com
+team_name: null
+team_members: null
+x_account: _Kaaelaa_ & @_votumm_
+builder_story: "I built Votum because most online polls are easy to create, but
+  difficult to trust.\r
+
+  \r
+
+  A single person can vote more than once, participation is often anonymous, and
+  the final number rarely shows how strongly people care about each option. At
+  the same time, creators and communities often need a better way to involve
+  their audiences in real decisions.\r
+
+  \r
+
+  Nimiq Pay made it possible to approach this differently. I could verify
+  participation through a wallet, enforce one vote per wallet, and allow people
+  to optionally support the option they believe in with NIM.\r
+
+  \r
+
+  That became Votum: a simple way to turn passive clicks into accountable
+  participation.\r
+
+  \r
+
+  What problem Votum solves\r
+
+  \r
+
+  Votum helps creators, communities and organizations collect more trustworthy
+  audience signals.\r
+
+  \r
+
+  Each verified wallet gets one vote, so sending more money never creates more
+  voting power. Optional NIM support is counted separately and sent directly to
+  the disclosed recipient.\r
+
+  \r
+
+  This allows creators to see two different signals clearly:\r
+
+  \r
+
+  how many people chose an option;\r
+
+  how strongly people were willing to support it.\r
+
+  \r
+
+  Votum also gives creators visibility into total votes, confirmed NIM support,
+  option performance and recent activity.\r
+
+  \r
+
+  The goal is to make online decisions more transparent, meaningful and useful
+  without making participation complicated."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+  - screenshot-4.png
+github_login: kaelah971
+submitted_at: 2026-07-31T21:30:34.598Z
