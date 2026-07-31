@@ -1,0 +1,25 @@
+app_name: Bardtale Studio
+category: Creator tools
+tagline: Create Storybooks, Custom Artworks & Witcher-Style Bardic Ballads
+description: Create personalized short intriguing stories and artwork. Compose
+  authentic Witcher-style tavern songs, minstrel ballads, and fantasy
+  soundscapes up to 3 minutes.
+pricing: Paid
+repo_url: https://github.com/nimrid/Bardtale-AI
+demo_url: https://bardtale-ai.vercel.app/
+video_url: https://youtube.com/shorts/SQE6CmZC9Ig?si=zN-_mw0BSIHXqCcB
+contact_email: edidionguwemedimo3@gmail.com
+team_name: null
+team_members: null
+x_account: null
+builder_story: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: nimrid
+submitted_at: 2026-07-31T15:36:30.279Z
