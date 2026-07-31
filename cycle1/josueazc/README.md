@@ -21,7 +21,7 @@
 | --- | --- |
 | Repo | [https://github.com/NIMIQ-MINIAPPS/NIMIQ-ARCADE](<https://github.com/NIMIQ-MINIAPPS/NIMIQ-ARCADE>) |
 | Demo | [https://nimiq-arcade.vercel.app/](<https://nimiq-arcade.vercel.app/>) |
-| Video | [https://nimiq-arcade-metrics.vercel.app](<https://nimiq-arcade-metrics.vercel.app>) |
+| Video | [https://youtube.com/shorts/TlcEcDFHb7s?feature=share](<https://youtube.com/shorts/TlcEcDFHb7s?feature=share>) |
 
 ## Description
 
