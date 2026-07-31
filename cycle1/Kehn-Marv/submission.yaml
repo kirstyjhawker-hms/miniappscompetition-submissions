@@ -1,0 +1,60 @@
+app_name: Nimigora
+category: Lifestyle
+tagline: The Autonomous Newsroom
+description: Experience the future of news. Nimigora uses an autonomous AI
+  pipeline to deliver unbiased, fact-checked journalism across global affairs,
+  tech, and more.
+pricing: Freemium
+repo_url: https://github.com/Kehn-Marv/Nimigora
+demo_url: https://nimigora.vercel.app/
+video_url: https://youtube.com/shorts/O6cQhXbGG1A?feature=share
+contact_email: marvellousegemonye@gmail.com
+team_name: Nimigora
+team_members: null
+x_account: x.com/KehnMarv
+builder_story: "The Problem: The modern news ecosystem is broken. It is plagued
+  by clickbait, human bias, and increasingly, hallucinated \"AI slop\" designed
+  just to farm clicks. \r
+
+  \r
+
+  Producing high-quality, deeply researched journalism is incredibly expensive
+  and slow. As a result, publications are forced to rely on intrusive, ad-heavy
+  interfaces or clunky subscription models that create massive friction for
+  readers.\r
+
+  \r
+
+  The Inspiration & Solution: I was inspired to build Nimigora to prove that an
+  autonomous AI pipeline can actually operate with the rigorous standards of a
+  premium human newsroom. \r
+
+  Nimigora is an AI-native news experiment that independently researches,
+  cross-references, fact-checks, and synthesizes global news into high-quality,
+  bias-free articles across six different beats.\r
+
+  \r
+
+  However, a premium product needs a premium monetization model. \r
+
+  The Nimiq Pay Mini Apps framework was the missing piece of the puzzle. By
+  integrating Nimiq Pay, Nimigora completely removes the friction of traditional
+  web2 paywalls. \r
+
+  \r
+
+  Users can instantly unlock exclusive, deeply-researched content using seamless
+  crypto micro-transactions right from their wallet.\r
+
+  \r
+
+  Nimigora is my attempt to showcase the future of publishing: zero humans in
+  the newsroom, zero bias in the writing, and zero friction in the payment."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+github_login: Kehn-Marv
+submitted_at: 2026-07-29T22:57:02.164Z
