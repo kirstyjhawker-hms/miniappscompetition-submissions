@@ -21,7 +21,7 @@
 | --- | --- |
 | Repo | [https://github.com/birdcoin0/nimifit-mini-app](<https://github.com/birdcoin0/nimifit-mini-app>) |
 | Demo | [https://nimifit-mini-app.vercel.app/](<https://nimifit-mini-app.vercel.app/>) |
-| Video | [https://nimifit-mini-app.vercel.app/](<https://nimifit-mini-app.vercel.app/>) |
+| Video | [https://youtu.be/P8hIARM15es](<https://youtu.be/P8hIARM15es>) |
 
 ## Description
 
