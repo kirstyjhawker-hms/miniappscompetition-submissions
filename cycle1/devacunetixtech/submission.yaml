@@ -1,0 +1,44 @@
+app_name: RallyNIM
+category: Productivity
+tagline: Rally your community. Reward every interaction.
+description: RallyNIM is a Mini App that enables organisers to create smart
+  reward campaigns for events, communities, hackathons, universities, and
+  businesses. Participants complete activities, scan dynamic QR codes, and earn
+  NIM rewards directly through MiniPay.
+pricing: Free
+repo_url: https://github.com/devacunetixtech/RallyNIM
+demo_url: https://rally-nim.vercel.app/
+video_url: https://youtu.be/dFKBx6jMTNA
+contact_email: preciousadebisi2022@gmail.com
+team_name: null
+team_members: null
+x_account: acunetixtech001
+builder_story: "I'm a full-stack developer passionate about building products
+  that solve real-world problems through Web3. While attending community events
+  and hackathons, I noticed organisers often struggle to reward participation
+  fairly, securely, and at scale. Existing solutions are fragmented, manual, or
+  focused only on token distribution.\r
+
+  \r
+
+  I built RallyNIM to make community engagement effortless. Organisers can
+  launch smart reward campaigns in minutes, while participants simply connect
+  their MiniPay wallet, complete activities, scan dynamic QR codes, and
+  instantly earn NIM rewards.\r
+
+  \r
+
+  Throughout this competition, I built in public, gathered feedback from the
+  community, and focused on delivering a polished, production-ready Mini App
+  rather than just a prototype. My goal is to help make MiniPay the go-to
+  platform for rewarding real-world participation and community engagement."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: devacunetixtech
+submitted_at: 2026-07-31T13:12:50.704Z
