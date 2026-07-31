@@ -1,0 +1,28 @@
+app_name: Tanda
+category: Earning
+tagline: Tanda coordinates a fixed rotating savings circle without holding its money.
+description: "A rotating savings circle gives each member one turn to receive
+  the group’s\r
+
+  contributions. Tanda records the circle name, contribution amount, and fixed\r
+
+  turn order in its invitation link. Members sign those terms in Nimiq Pay or\r
+
+  the Nimiq web wallet."
+pricing: Free
+repo_url: https://github.com/ajanaku1/Tanda
+demo_url: https://tanda-one.vercel.app/
+video_url: https://youtu.be/QTPNuvqGnA8
+contact_email: mykdahunsi@gmail.com
+team_name: null
+team_members: null
+x_account: curioswhispers
+builder_story: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+github_login: ajanaku1
+submitted_at: 2026-07-31T17:56:38.623Z
