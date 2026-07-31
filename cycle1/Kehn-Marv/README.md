@@ -21,7 +21,7 @@
 | --- | --- |
 | Repo | [https://github.com/Kehn-Marv/Nimigora](<https://github.com/Kehn-Marv/Nimigora>) |
 | Demo | [https://nimigora.vercel.app/](<https://nimigora.vercel.app/>) |
-| Video | [https://x.com/Nimigora_web](<https://x.com/Nimigora_web>) |
+| Video | [https://youtube.com/shorts/O6cQhXbGG1A?feature=share](<https://youtube.com/shorts/O6cQhXbGG1A?feature=share>) |
 
 ## Description
 
