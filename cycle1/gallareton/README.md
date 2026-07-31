@@ -21,7 +21,7 @@
 | --- | --- |
 | Repo | [https://github.com/gallareton/nimble](<https://github.com/gallareton/nimble>) |
 | Demo | [https://nimble.gallareton.pl/](<https://nimble.gallareton.pl/>) |
-| Video | [https://youtu.be/f0s0mHz4v-4](<https://youtu.be/f0s0mHz4v-4>) |
+| Video | [https://youtu.be/mwSJtvYDoeA/](<https://youtu.be/mwSJtvYDoeA>) |
 
 ## Description
 
