@@ -1,6 +1,6 @@
 # NimSub
 
-> Subscription Billing API
+> Create, discover, and subscribe to USDT-powered subscription plans on Polygon.
 
 <img src="icon.png" alt="App icon" width="128">
 
@@ -13,7 +13,7 @@
 | X account | benra1sofian |
 | Contact email | benrawane2012@gmail.com |
 | GitHub login | @BenraouaneSoufiane |
-| Submitted at | 2026-07-28T10:59:41.158Z |
+| Submitted at | 2026-07-31T11:30:11.514Z |
 
 ## Links
 
@@ -21,15 +21,15 @@
 | --- | --- |
 | Repo | [https://github.com/benraouanesoufiane/NimSub](<https://github.com/benraouanesoufiane/NimSub>) |
 | Demo | [https://nimsub.xyz](<https://nimsub.xyz>) |
-| Video | [https://www.youtube.com/shorts/nNIwqBxOqXc](<https://www.youtube.com/shorts/nNIwqBxOqXc>) |
+| Video | [https://youtube.com/shorts/IBU9F5QqwVY](<https://youtube.com/shorts/IBU9F5QqwVY>) |
 
 ## Description
 
-It provides simple sdk to let merchants setup subscriptions for their services, enable them to accept reccuring payments from customers using Nimiq Pay, the subscribe button then appears in their store & the plan listed in NimSub.
+NimSub is a NimiqPay Mini App that enables anyone to create subscription plans, discover services, and subscribe with recurring USDT payments.
 
 ## Builder story
 
-I saw web3 subscription apps are missed, first tried to built with erc7710 then switched to manuall contract creation (because Nimiq sdk not supprt it), it actually resolves big problem of accepting reccuring payments in web3, so it's the native payment subscription provider reshaped.
+I saw web3 subscription apps are missed, first tried to build the proframable version through the sdk, but after receiving feedbacks, I removed the friction & enabled any connected wallet can create sub plans, discover & subscribe.
 
 ## Thumbnail
 
