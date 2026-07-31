@@ -1,0 +1,26 @@
+app_name: NimiFit
+category: Health & fitness
+tagline: Log meals, touch grass, earn NIM — wellness that pays you back.
+description: NimiFit is a Nimiq Pay wellness app where every healthy habit earns
+  tickets. Scan meals with Gemini AI, log water, and share your outdoor moments
+  on Touch Grass — a social feed where real-life movement gets rewarded. Compete
+  in weekly challenges and redeem tickets for Pro, or pay
+pricing: Freemium
+repo_url: https://github.com/birdcoin0/nimifit-mini-app
+demo_url: https://nimifit-mini-app.vercel.app/
+video_url: https://youtu.be/P8hIARM15es
+contact_email: zemoked@gmail.com
+team_name: null
+team_members: null
+x_account: SimoFc10
+builder_story: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: birdcoin0
+submitted_at: 2026-07-31T23:14:15.238Z
