@@ -1,0 +1,26 @@
+app_name: Wallet quest
+category: Games
+tagline: You walk a character around a shared hub world where other players are
+  visible in real time;
+description: You walk a character around a shared hub world where other players
+  are visible in real time; five rooms each teach one wallet concept and end in
+  a real signed message or on-chain transaction;
+pricing: Free
+repo_url: https://github.com/Imdavyking/wallet-quest
+demo_url: https://wallet-quest.vercel.app/
+video_url: https://youtu.be/g8ZC4qFAtHM?si=BBC595AaE3eTWxqP
+contact_email: yungdynamuc53@gmail.com
+team_name: null
+team_members: null
+x_account: null
+builder_story: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: Imdavyking
+submitted_at: 2026-07-31T23:51:24.588Z
