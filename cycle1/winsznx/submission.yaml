@@ -1,0 +1,30 @@
+app_name: Tally
+category: Social
+tagline: Top up once. Stop settling up.
+description: A shared tab for any group that spends together. Tally nets
+  everyone's debts down to the fewest possible transfers and clears them in NIM
+  without a payment prompt.
+pricing: Free
+repo_url: https://github.com/winsznx/tally
+demo_url: https://tally-646.pages.dev/
+video_url: https://tally-646.pages.dev/demovideo
+contact_email: xidoncapitals@gmail.com
+team_name: Tally
+team_members: null
+x_account: winsznx
+builder_story: "A tally stick was how debt worked before contracts. Notches cut
+  across a piece of wood, then split lengthwise so each party kept a matching
+  half, and neither could shave a notch without the other's half exposing it. I
+  wanted the same property: a shared record neither side can quietly edit. The
+  chain provides the notches. Nimiq being feeless is what makes it possible to
+  settle the tab in amounts small enough that people actually bother."
+icon: icon.png
+thumbnail: thumbnail.gif
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: winsznx
+submitted_at: 2026-07-31T23:57:12.344Z
