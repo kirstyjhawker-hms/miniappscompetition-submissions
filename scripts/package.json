@@ -6,7 +6,8 @@
   "description": "CI validation for competition submission PRs.",
   "engines": { "node": ">=20" },
   "scripts": {
-    "test": "node --test"
+    "test": "node --test",
+    "download": "cd .. && node scripts/download-repos.mjs"
   },
   "dependencies": {
     "yaml": "^2.5.1"

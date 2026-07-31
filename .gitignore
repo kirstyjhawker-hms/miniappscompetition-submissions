@@ -1,0 +1,4 @@
+node_modules/
+
+# Repo snapshots fetched by scripts/download-repos.mjs
+downloads/
