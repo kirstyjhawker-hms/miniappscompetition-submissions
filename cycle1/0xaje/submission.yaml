@@ -1,0 +1,73 @@
+app_name: NimiqFlow
+category: Productivity
+tagline: Smart Crypto Payments, Simplified.
+description: Nimiq Flow is a Mini App for sending, receiving, requesting, and
+  managing NIM payments with AI-powered invoicing and QR payments.
+pricing: Free
+repo_url: https://github.com/0xaje/-NimiqFlow-
+demo_url: https://nimiq-flow.vercel.app
+video_url: https://drive.google.com/file/d/1B2xwkn7jKhfoIwwqTAIstowDfXEzVj1G/view?usp=drivesdk
+contact_email: ajeseun11@gmail.com
+team_name: Nexora
+team_members: null
+x_account: 0xaje_
+builder_story: "Nimiq Flow started from a simple observation: sending crypto is
+  easy, but managing a complete payment workflow is not.\r
+
+  \r
+
+  Freelancers, creators, and small businesses often have to switch between
+  multiple tools to create invoices, generate payment requests, share wallet
+  addresses, verify payments, and keep transaction records. That fragmented
+  experience creates unnecessary friction, especially for users who simply want
+  to get paid.\r
+
+  \r
+
+  I wanted to build a Mini App that brings these essential payment tasks into
+  one seamless experience inside Nimiq Pay.\r
+
+  \r
+
+  Nimiq Flow was designed around a straightforward idea: one app, one workflow.
+  A user should be able to create an invoice from natural language, generate a
+  payment request, share it with a QR code or payment link, verify settlement
+  on-chain, and export transaction records without leaving the app.\r
+
+  \r
+
+  Throughout development, I focused on building a real product rather than a
+  prototype. I integrated the native Nimiq Pay Mini App SDK for wallet
+  interactions, connected to live blockchain data through Nimiq JSON-RPC, used
+  real-time market pricing for conversions, and intentionally avoided mock
+  blockchain transactions and simulated data.\r
+
+  \r
+
+  I also paid close attention to usability. Features such as multilingual
+  support, privacy-preserving device identification, address validation, native
+  mobile sharing, and separate development and production environments were
+  added to make the app practical for both users and developers.\r
+
+  \r
+
+  Building Nimiq Flow has been an opportunity to explore how Mini Apps can make
+  blockchain technology feel simpler and more useful. My goal wasn't to
+  demonstrate isolated technical features, but to create a payment experience
+  that solves real problems and showcases the potential of the Nimiq
+  ecosystem.\r
+
+  \r
+
+  This project represents my vision of making crypto payments more accessible,
+  more intuitive, and easier to integrate into everyday workflows."
+icon: icon.jpg
+thumbnail: thumbnail.jpg
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+  - screenshot-4.jpg
+  - screenshot-5.jpg
+github_login: 0xaje
+submitted_at: 2026-07-31T23:11:35.659Z
