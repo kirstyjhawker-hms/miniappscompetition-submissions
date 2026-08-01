@@ -1,0 +1,25 @@
+app_name: PactPay
+category: Productivity
+tagline: One outcome. Private contributions. Everyone settled in NIM.
+description: PactPay helps a coordinator define private, role-scoped
+  contributions, share clear terms, receive evidence, and settle each
+  contributor directly in NIM through Nimiq Pay. Every contributor sees only
+  their own obligation, entitlement, deadlines, and receipt.
+pricing: Free
+repo_url: https://github.com/Jaydearcadian/pactpay-miniapp
+demo_url: https://pactpay-miniapp.pages.dev/
+video_url: https://youtu.be/4OIMRotxoPU
+contact_email: supremacy817@gmail.com
+team_name: null
+team_members:
+  - Solo - Jay
+x_account: Jaydearcadian
+builder_story: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+github_login: Jaydearcadian
+submitted_at: 2026-07-31T23:59:00.394Z
