@@ -21,7 +21,7 @@
 | --- | --- |
 | Repo | [https://github.com/winsznx/tally](<https://github.com/winsznx/tally>) |
 | Demo | [https://tally-646.pages.dev/](<https://tally-646.pages.dev/>) |
-| Video | [https://tally-646.pages.dev/demovideo](<https://tally-646.pages.dev/demovideo>) |
+| Video | [https://x.com/winsznx/status/2083341660725879154](<https://x.com/winsznx/status/2083341660725879154>) |
 
 ## Description
 
