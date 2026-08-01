@@ -21,7 +21,7 @@
 | --- | --- |
 | Repo | [https://github.com/0xaje/-NimiqFlow-](<https://github.com/0xaje/-NimiqFlow->) |
 | Demo | [https://nimiq-flow.vercel.app](<https://nimiq-flow.vercel.app>) |
-| Video | [https://drive.google.com/file/d/1B2xwkn7jKhfoIwwqTAIstowDfXEzVj1G/view?usp=drivesdk](<https://drive.google.com/file/d/1B2xwkn7jKhfoIwwqTAIstowDfXEzVj1G/view?usp=drivesdk>) |
+| Video | [https://youtu.be/HSBxovGPej4?si=NJKhPL9zL06T5dq-](<https://youtu.be/HSBxovGPej4?si=NJKhPL9zL06T5dq->) |
 
 ## Description
 
