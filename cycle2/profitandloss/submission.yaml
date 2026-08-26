@@ -1,0 +1,65 @@
+app_name: BodyDouble
+category: Productivity
+tagline: '"Focus alongside someone, finish what you start."'
+description: Join a virtual room and work quietly alongside another person on
+  your own task. Body doubling converts boring tasks into doable ones — built
+  for ADHD minds and anyone who struggles to start. Stake a small amount to stay
+  focused; finish the session and you get it back.
+pricing: Free
+repo_url: https://github.com/profitandloss/bodydouble
+demo_url: https://profitandloss.github.io/bodydouble/
+video_url: https://www.loom.com/share/c959b9261e4240a1ad4e9512b85a2f0f
+contact_email: fmbrown12@gmail.com
+team_name: TWYN
+team_members:
+  - Fabe
+x_account: 1fabe1
+builder_story: "I built BodyDouble because of my own thesis. I wrote The
+  Attention Economy\r
+
+  Thesis: ADHD is not a deficit of attention but a different economy of
+  attention\r
+
+  — one that pays in interest, novelty, challenge, urgency and meaning instead
+  of\r
+
+  importance, priority and consequence. Hyperfocus is the proof: nine hours on
+  the\r
+
+  right task, nine minutes of struggle on the wrong one.\r
+
+  \r
+
+  Body doubling is currency conversion in action. Working quietly beside
+  someone\r
+
+  converts an importance-denominated task into one with social presence and\r
+
+  urgency — currencies the ADHD mind actually accepts. The stake adds real skin
+  in\r
+
+  the game: finish the session, get it back; leave early, it's gone.\r
+
+  \r
+
+  So BodyDouble is my thesis made touchable — a tool that doesn't ask anyone
+  to\r
+
+  \"try harder\", it changes the price. Built with AI assistance as a web app on
+  the\r
+
+  Nimiq Mini Apps SDK, with USDT-on-Polygon stakes. For the ADHD community,
+  for\r
+
+  anyone who struggles to start, and for everyone who works better when
+  they're\r
+
+  not alone."
+icon: icon.jpg
+thumbnail: thumbnail.jpg
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+github_login: profitandloss
+submitted_at: 2026-08-26T01:37:37.139Z
