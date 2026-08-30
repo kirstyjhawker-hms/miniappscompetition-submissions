@@ -1,0 +1,41 @@
+app_name: BasePay
+category: Creator tools
+tagline: The universal tip jar
+description: BasePay is a non-custodial, multi-currency tip jar that runs as a
+  Nimiq Pay Mini App. Creators generate a personal tip link or QR code, share it
+  on their stream, website, or bio — and receive tips instantly in USDC, USDT,
+  or native NIM.
+pricing: Free
+repo_url: https://github.com/xxcode66-source/basepay
+demo_url: https://basepay-omega.vercel.app/
+video_url: https://www.youtube.com/watch?v=33Egy4tGDKo
+contact_email: xxcode66@gmail.com
+team_name: null
+team_members: null
+x_account: landlordrice
+builder_story: "I'm a streamer's friend. Every time my buddy went live, he
+  struggled to accept tips. Every platform took a cut — Twitch 50%, YouTube 30%,
+  even \"tip jar\" services charged 5-10%. The money was his, but the middlemen
+  disagreed.So I built BasePay. One link, one QR code, zero custody. Supporters
+  pay directly from their wallet to his. No platform holds the funds, no
+  approval process, no waiting period. The smart contract just routes the money
+  — 95% to him, 5% to keep the lights on. That's it.But there was still a
+  problem: wallet friction. Every supporter had to install a browser extension,
+  find their wallet, connect it, switch to Base... half of them gave up before
+  sending a single tip.That's why I brought BasePay to Nimiq Pay. The wallet is
+  already there. The user is already authenticated. One tap and the tip is sent
+  — whether it's USDC, USDT, or native NIM. No extensions, no popups, no
+  friction.The problem I'm solving isn't technical. It's human. Tipping should
+  feel as easy as handing someone cash. Not easier — because this is actually
+  better. It's instant, it's global, it's non-custodial, and nobody can freeze
+  your money.BasePay started as a favor for one streamer. Now it's a universal
+  tip jar that works wherever Nimiq Pay goes. That's the dream: money that moves
+  like a message."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+github_login: xxcode66-source
+submitted_at: 2026-08-30T18:49:26.853Z
