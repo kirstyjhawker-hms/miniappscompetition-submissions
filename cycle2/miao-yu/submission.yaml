@@ -1,0 +1,47 @@
+app_name: Reef
+category: Games
+tagline: An aquarium that fills from your Nimiq staking.
+description: "Reef turns Nimiq staking into a living aquarium: cast a line each
+  epoch and pull out one of seventeen species, whose rarity you earn by staking
+  steadily rather than heavily. For anyone holding NIM who'd rather watch
+  something grow\r
+
+  than watch a number."
+pricing: Free
+repo_url: https://github.com/miao-yu/nimiq-reef
+demo_url: https://reef.nimiq.cafe/
+video_url: https://reef.nimiq.cafe/
+contact_email: miaoyu319@gmail.com
+team_name: null
+team_members: null
+x_account: Nimiq_Cafe
+builder_story: "I run a Nimiq staking pool, so I've watched what happens after
+  somebody\r
+
+  delegates: nothing. The transaction confirms and the experience ends.\r
+
+  \r
+
+  Reef makes the waiting visible - an aquarium that fills from your real
+  staking,\r
+
+  one cast per epoch, seventeen species with over a thousand looks each. The
+  rule\r
+
+  I care about is that rarity comes from how long you've staked, never how
+  much.\r
+
+  Stake size buys room; the rare creatures only come to people who stayed.\r
+
+  \r
+
+  Reef is totally free."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+github_login: miao-yu
+submitted_at: 2026-08-31T14:31:58.370Z
