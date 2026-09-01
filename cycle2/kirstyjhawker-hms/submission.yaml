@@ -1,0 +1,32 @@
+app_name: Pay It Sideways
+category: Social
+tagline: Someone showed up for you. Show up for someone else.
+description: Pay It Sideways lets you send a private note of appreciation,
+  optionally with a claimable NIM gift—without asking for the recipient’s wallet
+  address. They can keep it or let it inspire a fresh act of kindness for
+  someone else.
+pricing: Free
+repo_url: https://github.com/kirstyjhawker-hms/pay-it-sideways
+demo_url: https://pay-it-sideways.grand-sugar.workers.dev
+video_url: https://pay-it-sideways.grand-sugar.workers.dev
+contact_email: kirstyjhawker@gmail.com
+team_name: null
+team_members: null
+x_account: null
+builder_story: "Crypto gifting normally begins with plumbing: “What is your
+  wallet address?” Pay It Sideways begins with the person. I wanted a product
+  where a sincere sentence still feels whole at 0 NIM, while a tiny payment can
+  add something tangible without becoming a score, status symbol, or social
+  debt. The difficult part was making one link preserve the recipient’s choice.
+  The resulting addressless bearer gift keeps wallet mechanics quiet, uses real
+  NIM, and lets a message reach someone who has never exchanged an address with
+  the sender."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+github_login: kirstyjhawker-hms
+submitted_at: 2026-09-01T17:18:25.954Z
