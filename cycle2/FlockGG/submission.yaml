@@ -1,0 +1,63 @@
+app_name: Folester
+category: Social
+tagline: Social Media for Web3 on Mimiq
+description: Folester is a Web3 social platform built for the Nimiq ecosystem.
+  It allows users to share market research, post updates, and instantly reward
+  creators with direct crypto tips.
+pricing: Free
+repo_url: https://github.com/FlockGG/FolesterApp
+demo_url: https://folester.xyz
+video_url: https://youtu.be/TAfwtRhZhRU?si=oLln1kgtoOlx6D2t
+contact_email: iamsayed123y@gmail.com
+team_name: null
+team_members: null
+x_account: FlockGGs
+builder_story: "For a long time, my life has revolved around building things on
+  a screen. I started coding just trying to figure out how things work, spending
+  late nights at my desk learning as much as I could. Eventually, I stumbled
+  into the crypto space. I was amazed by the technology and the community, but
+  as I spent more time reading and exploring, I started to feel really
+  frustrated with how messy it all was.\r
+
+  \r
+
+  I would spend hours scrolling through social feeds trying to find actual good
+  information, but my timeline was always flooded with noise. One night, I was
+  reading a really brilliant piece of market research written by a small
+  creator. They had clearly spent hours putting it together, but they were
+  giving it away for free, and there was no easy way for me to just send them a
+  small thank you.\r
+
+  \r
+
+  That specific moment stuck with me. It made me realize that the current system
+  is broken. We did not need just another social network. We needed a place that
+  respects good content and actually rewards the people who put in the hard work
+  to make it.\r
+
+  \r
+
+  When the Nimiq competition came up, I knew this was my chance to solve the
+  problem that had been bothering me. I decided to build Folester. I put
+  everything else on pause and poured all my time into it. I wanted to build a
+  space that felt calm, quiet, and professional, unlike the loud and cluttered
+  apps we use every day.\r
+
+  \r
+
+  It was an exhausting journey. There were days I felt completely stuck,
+  especially when I was trying to make sure the tipping feature worked
+  flawlessly for everyone. But remembering that initial feeling of wanting to
+  help creators get paid kept me going. Seeing Folester live today is an amazing
+  feeling. It is a real reflection of my journey as a developer and my belief
+  that good work should always be rewarded."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: FlockGG
+submitted_at: 2026-09-01T09:23:09.001Z
